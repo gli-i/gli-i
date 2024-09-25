@@ -1,4 +1,4 @@
-## Hi there 👋
+More projects (private school assignments) available upon request
 
 <!--
 **gli-i/gli-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
